@@ -1,3 +1,6 @@
+## Project Source
+https://roadmap.sh/projects/openai-api-python
+
 # OpenAI API in Python
 
 Call OpenAI models directly from Python, beyond the ChatGPT interface.
